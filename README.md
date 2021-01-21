@@ -10,7 +10,7 @@
 ```json
 {
     "require": {
-        "haxibiao/vod-php-sdk": "^2.4"
+        "haxibiao/vod-sdk": "*"
     }
 }
 ```
