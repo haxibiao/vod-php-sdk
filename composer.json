@@ -15,7 +15,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.6.33",
-        "haxibiao/cos-sdk": "^2.0",
+        "haxibiao/cos-sdk": "*",
         "tencentcloud/tencentcloud-sdk-php": "3.0.124"
     },
     "require-dev": {
